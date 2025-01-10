@@ -1,5 +1,0 @@
-START firefox
-CALL navigate yes
-CALL search no
-CALL download no
-RAISE
